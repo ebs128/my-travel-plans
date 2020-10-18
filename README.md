@@ -1,2 +1,3 @@
-# my-travel-plans
-This is a test repository to get familiar with using GitHub
+# Travel Destinations
+
+A simple app to keep track of destinations I'd like to visit.
